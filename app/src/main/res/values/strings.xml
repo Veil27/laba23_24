@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LR5</string>
+    <string name="email_hint">Введите email адрес</string>
+    <string name="subject_hint">Тема</string>
+    <string name="message_hint">Сообщение</string>
+    <string name="send_button">Отправить</string>
+</resources>
